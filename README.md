@@ -1,2 +1,2 @@
 # " Hello, World 😀😂 "
-Hi welcome to yet another of my repo, I'm commiting a project that depicts where I started, It would be a good thing to look at when I come back later reviewing my projects 😊.
+Hi and welcome to yet another repo, I'm commiting a "hello world" project that shows where I started, It will be a thing I'm proud of as a self-taught developer who has reached so far by now😊.
